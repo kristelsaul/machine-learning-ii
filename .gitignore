@@ -33,3 +33,7 @@ practise-sessions/01/results/*
 # Ingnore specific directories
 practise-sessions/01/image-generation/data/
 practise-sessions/01/image-generation/models/
+
+#my homeworks
+saul*
+environment.yml
